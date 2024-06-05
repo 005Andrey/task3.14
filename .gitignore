@@ -1,0 +1,8 @@
+# Editor directories and files
+.fdea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
